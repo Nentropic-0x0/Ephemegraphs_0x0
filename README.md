@@ -1,4 +1,4 @@
-# Ephemegraps
+# Ephemeral Graphs
 
 A Research Project to extend the work done by the Graph Reasoning team at MIT. WIP.
 
